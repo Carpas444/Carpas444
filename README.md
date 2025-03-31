@@ -1,6 +1,6 @@
 ## <p align="center"> Hi there, fellow traveler 👋 </p>
-I'm Afonso and I'm currently in the second year of the Bachelor in Informatic Engineering @ Universidade do Minho, Braga, Portugal.  
-You can find some of the projects I've worked on until now in my page here. You can also acess my [website](https://carpinteiro44.com) to find out a little bit more about me.
+I'm Afonso and I'm currently in the second year of the Bachelor in Software Engineering @ Universidade do Minho, Braga, Portugal.  
+You can find some of the projects I've worked on until now in my page here. You can also access my [website](https://carpinteiro44.com) to find out a little bit more about me.
 <!--
 **Carpas444/Carpas444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
