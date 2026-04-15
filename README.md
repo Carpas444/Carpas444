@@ -1,21 +1,38 @@
 ## <p align="center"> Hi there, fellow traveler 👋 </p>
 
 <p align="center">
-
-I'm Afonso and I'm currently in the second year of the Bachelor in Software Engineering @ Universidade do Minho, Braga, Portugal.  
-You can find some of the projects I've worked on until now in my page here. You can also access my [website](https://carpinteiro44.com) to find out a little bit more about me.
+I'm Afonso, a Software Engineering student @ Universidade do Minho (Braga, Portugal 🇵🇹).
 </p>
-<!--
-**Carpas444/Carpas444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🎓 3rd year Bachelor's in Software Engineering  
+- 💻 Interested in full-stack development and building real-world applications  
+- ⚙️ Currently working with React, Next.js, TypeScript and Supabase  
+- 🌱 Always learning and improving my skills  
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** React, Next.js, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Supabase
+- **Languages:** TypeScript, JavaScript, Python, C  
+- **Tools:** Git, Linux, PostgreSQL  
+
+---
+
+### 📌 Featured Projects
+- 🔎 Found items Platform ([Perdidos e Achados na Universidade do Minho](https://www.peaum.org))
+  - Web app where users can post and search for found items 
+  - Built with Next.js, Supabase and Tailwind, 
+
+- 💼 NSJobs (in progress) (not publicly available for now)
+  - Platform for lifeguard job listings and applications
+
+---
+
+### 🌐 Find me here
+- 🌍 Website: https://carpinteiro44.com
+- 📫 Email me: afonsocarpinteiro@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/afonso-carpinteiro-44033216b
