@@ -25,7 +25,7 @@ I'm Afonso, a Software Engineering student @ Universidade do Minho (Braga, Portu
 ### 📌 Featured Projects
 - 🔎 Found items Platform ([Perdidos e Achados na Universidade do Minho](https://www.peaum.org))
   - Web app where users can post and search for found items 
-  - Built with Next.js, Supabase and Tailwind, 
+  - Built with Next.js, Supabase and Tailwind
 
 - 💼 NSJobs (in progress) (not publicly available for now)
   - Platform for lifeguard job listings and applications
